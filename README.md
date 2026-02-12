@@ -1,2 +1,0 @@
-# yazi
-personal yazi settings
